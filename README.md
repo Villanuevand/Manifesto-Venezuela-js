@@ -1,5 +1,5 @@
 # Manifesto
-===
+---
 Todos y cada uno de los miembros colaboradores de la comunidad de Javascript en Venezuela, conocidos cómo Venezuela.js, nos dedicaremos a impartir y compartir conocimientos sobre este lenguaje a todos los interesados en aprenderlo. 
 Recibiremos a todas aquellas personas que deseen aportar sus conocimientos y habilidades en pro de nuestra comunidad, sin importar su sexo, apariencia física, discapacidad, condición social, campo laboral, orientación sexual, raza o credo.
 
